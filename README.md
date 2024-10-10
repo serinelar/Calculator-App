@@ -11,7 +11,7 @@ Directory: `/python_version/`
 ### How to run:
 ```bash
 python calculator.py
-
+````
 ## Java Version (Swing)
 
 - A calculator built using the Swing library in Java.
